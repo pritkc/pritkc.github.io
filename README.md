@@ -1,1 +1,3 @@
-# pritkc.github.io
+
+## sample 
+### trial run
